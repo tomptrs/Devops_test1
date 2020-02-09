@@ -15,6 +15,11 @@ namespace identity_2.Controllers
             return View();
         }
 
+        public IActionResult Test()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
