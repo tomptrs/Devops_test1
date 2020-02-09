@@ -20,6 +20,15 @@ namespace identity_2.Controllers
             return View();
         }
 
+
+        /*
+         * This is user story 2
+         */
+        public IActionResult UserStory2()
+        {
+            return View();
+        }
+
         public IActionResult Test2()
         {
             return View();
